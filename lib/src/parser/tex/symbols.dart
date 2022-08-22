@@ -348,9 +348,9 @@ const texSymbolCommandConfigs = {
     '\u03F1': TexSymbolConfig('\u03F1'),
     '\u03C2': TexSymbolConfig('\u03C2'),
     '\u03C6': TexSymbolConfig('\u03C6'),
-    '*': TexSymbolConfig('-'), // TODO: Add correct symbol here
-    '+': TexSymbolConfig('-'), // TODO: Add correct symbol here
-    '-': TexSymbolConfig('-'), // TODO: Add correct symbol here
+    '*': TexSymbolConfig('*'),
+    '+': TexSymbolConfig('+'),
+    '-': TexSymbolConfig('-'),
     '\u22C5': TexSymbolConfig('\u22C5'),
     '\u00F7': TexSymbolConfig('\u00F7'),
     '\u00B1': TexSymbolConfig('\u00B1'),
